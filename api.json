@@ -1,0 +1,224 @@
+{
+  "pecas": [
+    {
+      "id": 1,
+      "nome": "Pastilha de Freio",
+      "descricao": "Pastilha de freio dianteira para Toyota Yaris 2019.",
+      "preco": 150.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Freio",
+      "ano_compatibilidade": [2019, 2020],
+      "veiculos": [
+        {
+          "veiculo": "Toyota Yaris",
+          "ano": 2019
+        },
+        {
+          "veiculo": "Toyota Yaris",
+          "ano": 2020
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Filtro de Óleo",
+      "descricao": "Filtro de óleo para motores a gasolina, compatível com Honda Civic.",
+      "preco": 80.00,
+      "disponibilidade": true,
+      "marca": "Truck+",
+      "tipo": "Filtro",
+      "ano_compatibilidade": [2018, 2019, 2020],
+      "veiculos": [
+        {
+          "veiculo": "Honda Civic",
+          "ano": 2018
+        },
+        {
+          "veiculo": "Honda Civic",
+          "ano": 2019
+        },
+        {
+          "veiculo": "Honda Civic",
+          "ano": 2020
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Bateria",
+      "descricao": "Bateria automotiva de 60Ah, ideal para veículos pequenos.",
+      "preco": 320.00,
+      "disponibilidade": false,
+      "marca": "Car+",
+      "tipo": "Bateria",
+      "ano_compatibilidade": [2017, 2018, 2019],
+      "veiculos": [
+        {
+          "veiculo": "Fiat Uno",
+          "ano": 2017
+        },
+        {
+          "veiculo": "Fiat Uno",
+          "ano": 2018
+        },
+        {
+          "veiculo": "Fiat Uno",
+          "ano": 2019
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Óleo de Motor",
+      "descricao": "Óleo sintético para motores, 5W30, 1L.",
+      "preco": 45.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Óleo",
+      "ano_compatibilidade": [2019, 2020, 2021],
+      "veiculos": [
+        {
+          "veiculo": "Ford Ka",
+          "ano": 2019
+        },
+        {
+          "veiculo": "Ford Ka",
+          "ano": 2020
+        },
+        {
+          "veiculo": "Ford Ka",
+          "ano": 2021
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Amortecedor Dianteiro",
+      "descricao": "Amortecedor dianteiro para veículos SUV.",
+      "preco": 250.00,
+      "disponibilidade": true,
+      "marca": "Truck+",
+      "tipo": "Suspensão",
+      "ano_compatibilidade": [2016, 2017, 2018],
+      "veiculos": [
+        {
+          "veiculo": "Toyota RAV4",
+          "ano": 2016
+        },
+        {
+          "veiculo": "Toyota RAV4",
+          "ano": 2017
+        },
+        {
+          "veiculo": "Toyota RAV4",
+          "ano": 2018
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Correia Dentada",
+      "descricao": "Correia dentada para motores de 1.0 a 1.6.",
+      "preco": 120.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Motor",
+      "ano_compatibilidade": [2015, 2016],
+      "veiculos": [
+        {
+          "veiculo": "Fiat Palio",
+          "ano": 2015
+        },
+        {
+          "veiculo": "Fiat Palio",
+          "ano": 2016
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Luz LED",
+      "descricao": "Luz LED para farol, brilho intenso.",
+      "preco": 100.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Iluminação",
+      "ano_compatibilidade": [2020, 2021],
+      "veiculos": [
+        {
+          "veiculo": "Volkswagen Polo",
+          "ano": 2020
+        },
+        {
+          "veiculo": "Volkswagen Polo",
+          "ano": 2021
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Pastilha de Freio Traseira",
+      "descricao": "Pastilha de freio traseira para Chevrolet Onix 2018.",
+      "preco": 140.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Freio",
+      "ano_compatibilidade": [2018, 2019],
+      "veiculos": [
+        {
+          "veiculo": "Chevrolet Onix",
+          "ano": 2018
+        },
+        {
+          "veiculo": "Chevrolet Onix",
+          "ano": 2019
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Filtro de Ar",
+      "descricao": "Filtro de ar para motores a gasolina, compatível com Nissan Sentra.",
+      "preco": 55.00,
+      "disponibilidade": true,
+      "marca": "Truck+",
+      "tipo": "Filtro",
+      "ano_compatibilidade": [2019, 2020],
+      "veiculos": [
+        {
+          "veiculo": "Nissan Sentra",
+          "ano": 2019
+        },
+        {
+          "veiculo": "Nissan Sentra",
+          "ano": 2020
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Pneu",
+      "descricao": "Pneu para veículos de passeio, 205/55 R16.",
+      "preco": 300.00,
+      "disponibilidade": true,
+      "marca": "Car+",
+      "tipo": "Pneu",
+      "ano_compatibilidade": [2018, 2019, 2020],
+      "veiculos": [
+        {
+          "veiculo": "Hyundai HB20",
+          "ano": 2018
+        },
+        {
+          "veiculo": "Hyundai HB20",
+          "ano": 2019
+        },
+        {
+          "veiculo": "Hyundai HB20",
+          "ano": 2020
+        }
+      ]
+    }
+  ]
+}
